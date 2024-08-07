@@ -1,0 +1,128 @@
+{
+    "0": 1,
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": false,
+        "icon": ""
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 1476564.7540581778,
+    "leave": {
+        "status": false,
+        "number": 5
+    },
+    "DASHBOARD": false,
+    "commandDisabled": [
+        "girl.js",
+        "lq.js",
+        "duangua.js"
+    ],
+    "eventDisabled": [],
+    "BOXNOTI": "7082665011828775",
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "ACCESSTOKEN": "EAAD6V7os0gcBO6yzQT7wxFunUfEUn8k2nFBCOAcE8l8ViYyY7pqFXZBN0Nf6NI0BryZBDCvvKJlwoaobMJHZBlrhAE9WY1LvSRrZAMhOr5yxEZCUEyAZAG5zt7KbifrIiR6G5XMeHHnzKiH2vZAYOWZCZCZAvC61iw9IZA9bmtprfQSzmx242GQmsTJP6yGkwZDZD",
+    "BOTNAME": "Bot Touniie",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100042167594620",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [
+        "100042167594620"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "DESIGN": {
+        "BOT": "Touniie",
+        "Title": "V3.8",
+        "Theme": "flower",
+        "Admin": "Nguyen Phung Nhat Tuong",
+        "Setup": {
+            "BOT": "Tên bot thế thôi",
+            "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "4.0.0",
+    "bot": {
+        "APIKEY": "LUVMIN"
+    },
+    "daily": {
+        "cooldownTime": 8640000000,
+        "rewardCoin": 2000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": false,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "dailly": {
+        "cooldownTime": 108000000
+    },
+    "dally": {
+        "cooldownTime": 86400000
+    },
+    "pb": {
+        "spamDelay": 2
+    }
+}
