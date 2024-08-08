@@ -1,0 +1,20 @@
+{
+    "name": "Hoàng Kiên",
+    "ID": "61551534107278",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Bedrock",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "13:18:32, 4/5/2024"
+}

@@ -1,0 +1,945 @@
+[
+    {
+        "location":"The Earth",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Nơi khởi Nguyên",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Viên Kim Cương",
+                        "category":"Common",
+                        "size":32,
+                        "sell":200,
+                        "image": "https://i.imgur.com/yRwGNQf.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Đất",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/PwM03Lx.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Gỗ",
+                        "category":"Uncommon",
+                        "size":20,
+                        "sell":400,
+                        "image": "https://i.imgur.com/gu5UyYZ.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Đá",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/XKv8I3a.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Phiến đá",
+                        "category":"Uncommon",
+                        "size":28,
+                        "sell":350,
+                        "image": "https://i.imgur.com/vMYKIGG.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Ngọc lưu ly",
+                        "category":"Rare",
+                        "size":4700,
+                        "sell":1800,
+                        "image": "https://i.imgur.com/d9gedJU.png"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Đất podzol",
+                        "category":"Rare",
+                        "size":40,
+                        "sell":370,
+                        "image": "https://i.imgur.com/wnXtrIt.jpg"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Cát",
+                        "category":"Common",
+                        "size":48,
+                        "sell":300,
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Đá Granite",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/Sr32pdv.jpg"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Sỏi",
+                        "category":"Common",
+                        "size":37,
+                        "sell":250,
+                        "image": "https://i.imgur.com/Gl4ylvn.jpg"
+                    }
+                ]
+            },
+            {   
+                "ID": 1,
+                "name":"Làng Hoang",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Đất",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/PwM03Lx.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Đá Granite",
+                        "category":"Common",
+                        "size":37,
+                        "sell":250,
+                        "image": "https://i.imgur.com/Sr32pdv.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Cát",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Sỏi",
+                        "category":"Uncommon",
+                        "size":27,
+                        "sell":410,
+                        "image": "https://i.imgur.com/Gl4ylvn.jpg"
+                    }
+                ]
+            },
+            {   
+                "ID": 2,
+                "name":"Hang Động",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Than",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/xXlpNve.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Quặng Sắt",
+                        "category":"Common",
+                        "size":28,
+                        "sell":180,
+                        "image": "https://i.imgur.com/FzmWr8X.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Quặng Vàng",
+                        "category":"Common",
+                        "size":27,
+                        "sell":200,
+                        "image": "https://i.imgur.com/UFvjUP6.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Quặng Kim Cương",
+                        "category":"Uncommon",
+                        "size":38,
+                        "sell":420,
+                        "image": "https://i.imgur.com/dWXO9UX.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Redstone",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/IPOzgqB.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Quặng Lưu Ly",
+                        "category":"Uncommon",
+                        "size":40,
+                        "sell":370,
+                        "image": "https://i.imgur.com/s2YRZl4.png"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Ngọc Lục Bảo",
+                        "category":"Uncommon",
+                        "size":1800,
+                        "sell":900,
+                        "image": "https://i.imgur.com/SwFyJrl.png"
+                    }
+                ]
+            },
+            {
+                "ID": 3,
+                "name":"Hầm Mộ",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Đất",
+                        "category":"Common",
+                        "size":1100,
+                        "sell":4050,
+                        "image": "https://i.imgur.com/PwM03Lx.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Sỏi",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":300,
+                        "image": "https://i.imgur.com/Gl4ylvn.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Đá Granite",
+                        "category":"Uncommon",
+                        "size":40,
+                        "sell":500,
+                        "image": "https://i.imgur.com/Sr32pdv.jpg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Than",
+                        "category":"Common",
+                        "size":29,
+                        "sell":200,
+                        "image": "https://i.imgur.com/Nsp0Ujl.jpg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Quặng Sắt",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":3480,
+                        "image": "https://i.imgur.com/FzmWr8X.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 4,
+                "name":"Sa Mạc",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Cát Cứng",
+                        "category":"Uncommon",
+                        "size":11,
+                        "sell":4050,
+                        "image": "https://i.imgur.com/nDxQlez.jpg"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Cát",
+                        "category":"Common",
+                        "size":400,
+                        "sell":100,
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Xương Rồng",
+                        "category":"Uncommon",
+                        "size":40,
+                        "sell":240,
+                        "image": "https://i.imgur.com/I3YL87h.jpg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Đá Cuội",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
+                    }
+                ]
+            },
+            {   
+                "ID": 5,
+                "name":"Vùng Đất Nấm",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Đất Nhiễm Nấm",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Đá",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/XKv8I3a.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Đá Cuội",
+                        "category":"Uncommon",
+                        "size":190,
+                        "sell":760,
+                        "image": "https://i.imgur.com/EF8ufGh.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Than",
+                        "category":"Common",
+                        "size":29,
+                        "sell":200,
+                        "image": "https://i.imgur.com/xXlpNve.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Thân Nấm Giant",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":3480,
+                        "image": "https://i.imgur.com/8UzxUUu.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 6,
+                "name":"Biển Nam Cực",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Snow Block",
+                        "category":"Uncommon",
+                        "size":19,
+                        "sell":370,
+                        "image": "https://i.imgur.com/bHXBgAs.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Khối Băng Mỏng",
+                        "category":"Uncommon",
+                        "size":250,
+                        "sell":990,
+                        "image": "https://i.imgur.com/UzsoFh6.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Khối Băng Xanh",
+                        "category":"Legendary",
+                        "size":6700,
+                        "sell":720500,
+                        "image": "https://i.imgur.com/Xd14qYH.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Lớp Tuyết Dày",
+                        "category":"Rare",
+                        "size":67,
+                        "sell":990,
+                        "image": "https://i.imgur.com/oTDC0Pm.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Đá Cuội",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Đá",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/XKv8I3a.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 7,
+                "name":"Tàn Tích Biển Sâu",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Đất Sét",
+                        "category":"Common",
+                        "size":32,
+                        "sell":200,
+                        "image": "https://i.imgur.com/y2K6sBt.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Trầm tích",
+                        "category":"Common",
+                        "size":8400,
+                        "sell":70,
+                        "image": "https://i.imgur.com/c3cnoMY.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Cát",
+                        "category":"Common",
+                        "size":400,
+                        "sell":100,
+                        "image": "https://i.imgur.com/M3053jJ.jpg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Đá Sỏi",
+                        "category":"Common",
+                        "size":28,
+                        "sell":180,
+                        "image": "https://i.imgur.com/8rAzBAd.jpg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Đá",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/XKv8I3a.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Đá Cuội",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Khối Vàng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/kAehTE9.jpg"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Khối Kim Cương",
+                        "category":"Uncommon",
+                        "size":40,
+                        "sell":370,
+                        "image": "https://i.imgur.com/vGnhhHy.png"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Light Up",
+                        "category":"Legendary",
+                        "size":5500,
+                        "sell":679600,
+                        "image": "https://i.imgur.com/g3yp6h7.png"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Đá Nhiễm Rêu",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/mFcEPJU.jpg"
+                    }
+                ]
+            },
+            {   
+                "ID": 8,
+                "name":"Tàn Tích Cổ Đại",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Đá Nguyên khối",
+                        "category":"Uncommon",
+                        "size":300,
+                        "sell":100,
+                        "image": "https://i.imgur.com/6FeUkfs.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Xương Hóa Thạch",
+                        "category":"Uncommon",
+                        "size":24,
+                        "sell":410,
+                        "image": "https://i.imgur.com/unnT9La.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Đá Thờ",
+                        "category":"Rare",
+                        "size":870,
+                        "sell":3850,
+                        "image": "https://i.imgur.com/ySBbfqN.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Đất",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/PwM03Lx.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Đá Cuội",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/TF2q5Zp.jpg"
+                    }
+                ]
+            },
+            {
+                "ID": 9,
+                "name":"Tọa Độ Vô Cực",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Đất",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/PwM03Lx.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Đá",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/XKv8I3a.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "location":"Nether And The End",
+        "area":[
+            {  
+                "ID": 0,
+                "name":"Pháo Đài Nether",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Gạch Nether",
+                        "category":"Common",
+                        "size":34,
+                        "sell":200,
+                        "image": "https://i.imgur.com/Pzu9xiT.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Gạch Nether Thẫm",
+                        "category":"Common",
+                        "size":32,
+                        "sell":200,
+                        "image": "https://i.imgur.com/hmpZFNN.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Quặng Hạt Vàng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/zehWGoZ.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 1,
+                "name":"Đầm Lầy Nether World",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Quặng Hạt Vàng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/zehWGoZ.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Crying Obsidian",
+                        "category":"Rare",
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 2,
+                "name":"Rừng Ác Mộng",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Gỗ Linh Hồn",
+                        "category":"Common",
+                        "size":34,
+                        "sell":200,
+                        "image": "https://i.imgur.com/LY4UIG8.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Quặng Hạt Vàng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/zehWGoZ.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Crying Obsidian",
+                        "category":"Rare",
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 3,
+                "name":"Tàn Tích Nether Cổ",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
+
+                    },
+                    {
+                        "ID":2,
+                        "name":"Crying Obsidian",
+                        "category":"Rare",
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Cát Linh Hồn",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":410,
+                        "image": "https://i.imgur.com/kF12cBQ.png"
+                    },
+                    {  
+                        "ID":5,
+                        "name":"Đất Nether",
+                        "category":"Common",
+                        "size":27,
+                        "sell":190,
+                        "image": "https://i.imgur.com/gLYYk05.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 4,
+                "name":"Sông Lava",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Quặng Hạt Vàng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/zehWGoZ.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Crying Obsidian",
+                        "category":"Rare",
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 5,
+                "name":"Pháo Đài Heo",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Quặng Hạt Vàng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/zehWGoZ.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Mảnh Vỡ Cổ Đại",
+                        "category":"Legendary",
+                        "size":27,
+                        "sell":1900,
+                        "image": "https://i.imgur.com/JJwen49.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Crying Obsidian",
+                        "category":"Rare",
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Đá Phát Quang",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
+                    }
+                ]
+            },
+            {   
+                "ID": 6,
+                "name":"Rừng máu",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Gỗ Thẫm",
+                        "category":"Common",
+                        "size":34,
+                        "sell":200,
+                        "image": ""
+                    },
+                    {
+                        "ID":1,
+                        "name":"Quặng Hạt Vàng",
+                        "category":"Common",
+                        "size":31,
+                        "sell":200,
+                        "image": "https://i.imgur.com/zehWGoZ.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":3, 
+                        "name":"Nether Quartz Ore",
+                        "category":"Uncommon",
+                        "size":120,
+                        "sell":990,
+                        "image": "https://i.imgur.com/2lk1JeN.png"
+                    },
+                    {
+                        "ID":4, 
+                        "name":"Crying Obsidian",
+                        "category":"Rare",
+                        "size":21,
+                        "sell":560,
+                        "image": "https://i.imgur.com/tjJgtol.png"
+                    },
+                    {
+                        "ID":5, 
+                        "name":"Obsidian",
+                        "category":"Epic",
+                        "size":450,
+                        "sell":980,
+                        "image": "https://i.imgur.com/pHRTy2l.png"
+                    },
+                    {
+                        "ID":6, 
+                        "name":"Cát Linh Hồn",
+                        "category":"Uncommon",
+                        "size":32,
+                        "sell":410,
+                        "image": "https://i.imgur.com/kF12cBQ.png"
+                    },
+                    {  
+                        "ID":7, 
+                        "name":"Đất Nether",
+                        "category":"Common",
+                        "size":27,
+                        "sell":190,
+                        "image": "https://i.imgur.com/gLYYk05.png"
+                    },
+                    {
+                        "ID":8, 
+                        "name":"Đá Phát Quang",
+                        "category":"Common",
+                        "size":30,
+                        "sell":200,
+                        "image": "https://i.imgur.com/hZ6cxrU.jpg"
+                    }
+                ]
+            },
+            {   
+                "ID": 7,
+                "name":"World Edge – The Void",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Chorus Fruit",
+                        "category":"Mythical",
+                        "size":50,
+                        "sell":1000,
+                        "image": "https://i.imgur.com/VuLnzT8.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Chorus Flower",
+                        "category":"Legendary",
+                        "size":500,
+                        "sell":1100,
+                        "image": "https://i.imgur.com/2MKF1aE.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Chorus Plants",
+                        "category":"Legendary",
+                        "size":5000,
+                        "sell":1107080,
+                        "image": "https://i.imgur.com/8o1Hfzf.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Cúp gỗ",
+		"price": 400,
+		"durability": 20,
+		"countdown": 10,
+		"image": "https://i.imgur.com/IODc9Jo.png"
+	},
+	{
+		"name": "Cúp đá",
+		"price": 1500,
+		"durability": 50,
+		"countdown": 9,
+		"image": "https://i.imgur.com/XHTNRGF.png"
+	},
+	{
+		"name": "Cúp sắt",
+		"price": 4000,
+		"durability": 100,
+		"countdown": 8,
+		"image": "https://i.imgur.com/Rrlr2ZB.png"
+	},
+	{
+		"name": "Cúp vàng",
+		"price": 8000,
+		"durability": 200,
+		"countdown": 7,
+		"image": "https://i.imgur.com/yPedwZX.png"
+	},
+	{
+		"name": "Cúp kim cương",
+		"price": 17500,
+		"durability": 450,
+		"countdown": 3,
+		"image": "https://i.imgur.com/qA8hott.png"
+	},
+	{
+		"name": "Cúp Netherite",
+		"price": 29000,
+		"durability": 900,
+		"countdown": 3,
+		"image": "https://i.imgur.com/k1skyAb.png"
+	}
+]
