@@ -1,0 +1,36 @@
+module. exports. config = {
+    name: "loading",
+    version: "1.0.1",
+    hasPermssion: 0,
+    credits: "D-Jukie",
+    description: "Thời gian",
+    commandCategory: "No prefix",
+    cooldowns: 5
+}
+module. exports. handleEvent = async function({ api, event, args, Users,Threads }) {
+  const chalk1 = require('chalk');
+  const chalk = require('chalkercli');
+var job = ["FF9900", "FFFF33", "33FFFF", "FF99FF", "FF3366", "FFFF66", "FF00FF", "66FF99", "00CCFF", "FF0099", "FF0066", "0033FF", "FF9999", "00FF66", "00FFFF","CCFFFF","8F00FF","FF00CC","FF0000","FF1100","FF3300","FF4400","FF5500","FF6600","FF7700","FF8800","FF9900","FFaa00","FFbb00","FFcc00","FFdd00","FFee00","FFff00","FFee00","FFdd00","FFcc00","FFbb00","FFaa00","FF9900","FF8800","FF7700","FF6600","FF5500","FF4400","FF3300","FF2200","FF1100"];
+  const moment = require("moment-timezone");
+  var ngay = moment.tz("Asia/Ho_Chi_Minh").format("DD/MM/YYYY");
+  var gio = moment.tz('Asia/Ho_Chi_Minh').format('HH:mm:ss');
+  var idad = global.config.ADMINBOT;      
+  const rainbow = chalk.rainbow((`[ LOADING ] > ${gio} → `) + ngay).stop();
+  rainbow.render();
+  const frame = rainbow.frame();
+  console.log(frame);
+  var seconds = moment.tz("Asia/Ho_Chi_Minh").format("ss");
+  var timeRestart_1 = `00:59:${seconds}`
+  //console.log(timeNowRestart)
+  if ((timeNow == timeRestart_1) && seconds < 5 ) {
+    for( let ad of idad) {
+  setTimeout(() =>
+          api.sendMessage(`⏰ Bây giờ là: ${timeNow}\n🔄 Bot sẽ tiến hành reset lại hệ thống`,ad, () =>process.exit(1)), 1000);
+    }
+    }
+}
+module. exports. run = async  ({ api, event, args }) => {
+      const moment = require("moment-timezone");
+      var timeNow = moment.tz("Asia/Ho_Chi_Minh").format("HH:mm:ss");
+        api.sendMessage(`${timeNow}`, event.threadID)
+}
