@@ -1,0 +1,29 @@
+{
+  "name": "Hoàng Kiên",
+  "ID": "61551534107278",
+  "mainROD": "Steel Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Lilypad Islands"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này nếu không muốn nó lỗi🥲",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 50,
+      "countdown": 180,
+      "countdownData": null,
+      "image": "https://i.imgur.com/mptiizn.png"
+    }
+  ],
+  "timeRegister": "20:20:07, 4/5/2024"
+}
