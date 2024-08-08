@@ -1,0 +1,166 @@
+{
+    "jungle_0": {
+        "1": {
+            "name": "Sóc",
+            "image": "https://i.imgur.com/qGVH3CG.png",
+            "damage": 5,
+            "speed": 1,
+            "exp": 10,
+            "gold": 10
+        },
+        "2": {
+            "name": "Slime",
+            "image": "https://i.imgur.com/B7WM2nC.png",
+            "damage": 5,
+            "speed": 1,
+            "exp": 10,
+            "gold": 10
+        },
+        "3": {
+            "name": "Sóc Bậc 2",
+            "image": "https://i.imgur.com/B7WM2nC.png",
+            "damage": 10,
+            "speed": 1,
+            "exp": 100,
+            "gold": 30
+        },
+        "4": {
+            "name": "Slime Bậc 2",
+            "image": "https://i.imgur.com/6OesJ9i.png",
+            "damage": 10,
+            "speed": 1,
+            "exp": 100,
+            "gold": 30
+        },
+        "5": {
+            "name": "Slime Lửa",
+            "image": "https://i.imgur.com/nThKEUW.png",
+            "damage": 10,
+            "speed": 1,
+            "exp": 200,
+            "gold": 50
+        },
+        "6": {
+            "name": "Slime Lửa Bậc 2",
+            "image": "https://i.imgur.com/sZNS62Q.png",
+            "damage": 15,
+            "speed": 1,
+            "exp": 200,
+            "gold": 50
+        }
+    },
+    "mountain_10": {
+        "1": {
+            "name": "Goblin",
+            "image": "https://i.imgur.com/bw2Ufc9.jpg",
+            "damage": 20,
+            "speed": 1,
+            "exp": 100,
+            "gold": 30
+        },
+        "2": {
+            "name": "Goblin Chiến Binh",
+            "image": "https://i.imgur.com/wF9VjTk.jpg",
+            "damage": 30,
+            "speed": 1,
+            "exp": 200,
+            "gold": 50
+        },
+        "3": {
+            "name": "Bọ Cạp",
+            "image": "https://i.imgur.com/hS5JNKa.jpg",
+            "damage": 20,
+            "speed": 1,
+            "exp": 100,
+            "gold": 30
+        },
+        "4": {
+            "name": "Chó Sói Đỏ",
+            "image": "https://i.imgur.com/0bcJ84P.jpg",
+            "damage": 30,
+            "speed": 1,
+            "exp": 200,
+            "gold": 50
+        },
+        "5": {
+            "name": "Chuột Đỏ",
+            "image": "https://i.imgur.com/0N22zE5.jpg",
+            "damage": 10,
+            "speed": 1,
+            "exp": 200,
+            "gold": 50
+        }
+    },
+    "thiên giới_0": {
+        "1": {
+            "name": "thiên thần cấp 3 Archangelos ",
+            "image": "https://i.imgur.com/hgDcITX.png",
+            "damage": 324220,
+            "speed": 1,
+            "exp": 13232300,
+            "gold": 3333330
+        },
+        "2": {
+            "name": "thiên thần cấp 3 Angelos ",
+            "image": "https://i.imgur.com/qK0z63x.jpg",
+            "damage": 354520,
+            "speed": 1,
+            "exp": 20432442340,
+            "gold": 5324324340
+        },
+        "3": {
+            "name": "Kyriotētes - Quản thần",
+            "image": "https://i.imgur.com/vQSeDHI.png",
+            "damage": 2065757,
+            "speed": 1,
+            "exp": 1063453450,
+            "gold": 3534534530
+        },
+        "4": {
+            "name": "Seraphim - Luyến thần",
+            "image": "https://i.imgur.com/Hsy3uIx.png",
+            "damage": 3042435252,
+            "speed": 1,
+            "exp": 23525323500,
+            "gold": 55325235230
+        },
+        "5": {
+            "name": "Cherubim - Minh thần",
+            "image": "https://i.imgur.com/iawjgk2.jpg",
+            "damage": 14353450,
+            "speed": 1,
+            "exp": 2054345340,
+            "gold": 5053453453
+        }
+    },
+    "mine": {
+        "copper": {
+            "name": "Quặng Đồng",
+            "image": "https://i.imgur.com/hHmyx0j.png",
+            "gold": 100,
+            "exp": 10,
+            "dur": 1
+        },
+        "iron": {
+            "name": "Quặng Sắt",
+            "image": "https://i.imgur.com/jAPofDC.png",
+            "gold": 200,
+            "exp": 20,
+            "dur": 10
+        },
+        "gold": {
+            "name": "Quặng Vàng",
+            "image": "https://i.imgur.com/l24N2mE.png",
+            "gold": 500,
+            "exp": 30,
+            "dur": 40
+        },
+        "diamond": {
+            "name": "Quặng Kim Cương",
+            "image": "https://i.imgur.com/he4Ilrn.png",
+            "gold": 1000,
+            "exp": 40,
+            "dur": 70
+        }
+    }
+}

@@ -1,0 +1,61 @@
+[
+    {
+
+        "name": "Kiếm Sắt",
+        "image": "https://i.imgur.com/s5jccC7.png",
+        "type": "weapons",
+        "rarity": "common",
+        "damage": 20,
+        "durability": 1000,
+        "level": 1
+    },
+    {
+
+        "name": "Kiếm Sắt",
+        "image": "https://i.imgur.com/s5jccC7.png",
+        "type": "weapons",
+        "rarity": "common",
+        "damage": 20,
+        "durability": 1000,
+        "level": 1
+    },
+    {
+
+        "name": "Kiếm Sắt",
+        "image": "https://i.imgur.com/s5jccC7.png",
+        "type": "weapons",
+        "rarity": "common",
+        "damage": 20,
+        "durability": 1000,
+        "level": 1
+    },
+    {
+
+        "name": "Kiếm Sắt",
+        "image": "https://i.imgur.com/s5jccC7.png",
+        "type": "weapons",
+        "rarity": "common",
+        "damage": 20,
+        "durability": 1000,
+        "level": 1
+    },
+    {
+        "name": "Cung",
+        "damage": 50,
+        "level": 1,
+        "type": "weapons",
+        "durability": 1000,
+        "image": "https://i.imgur.com/FUyopSf.png",
+        "rarity": "rare" 
+    },
+    {
+        "name": "Áo Giáp Vàng",
+        "durability": 2000,
+        "level": 1,
+        "image": "https://i.imgur.com/11iNwmd.png",
+        "type": "armor",
+        "rarity": "common",
+        "hp": 100,
+        "defense": 20
+    }
+]

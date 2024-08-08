@@ -1,0 +1,2328 @@
+{
+    "4": {
+        "map": "jungle_0",
+        "mine": "2",
+        "dataUser": {
+            "level": 2,
+            "exp": 208,
+            "gold": 9999999740899,
+            "hp": 2000,
+            "mana": 200,
+            "atk": 200,
+            "max_hp": 2000,
+            "def": 40,
+            "weapons": "Cung",
+            "tools": "Cúp Gỗ",
+            "armor": "Áo Giáp Vàng"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 100,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                },
+                "Cung": {
+                    "name": "Cung",
+                    "damage": 56,
+                    "level": 2,
+                    "price": 10000,
+                    "durability": 194,
+                    "image": "https://i.imgur.com/FUyopSf.png"
+                },
+                "Rìu": {
+                    "name": "Rìu",
+                    "damage": 30,
+                    "level": 3,
+                    "price": 5000,
+                    "durability": 490,
+                    "image": "https://i.imgur.com/Uer8GiV.png"
+                }
+            },
+            "tools": {
+                "Cúp Vàng": {
+                    "name": "Cúp Vàng",
+                    "price": 5000,
+                    "durability": 300,
+                    "level": 1,
+                    "image": "https://i.imgur.com/jH2kDtj.png"
+                },
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 100,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            },
+            "armor": {
+                "Áo Giáp Vàng": {
+                    "name": "Áo Giáp Vàng",
+                    "durability": 200,
+                    "level": 1,
+                    "image": "https://i.imgur.com/11iNwmd.png",
+                    "defense": 20,
+                    "hp": 100,
+                    "price": 10000
+                }
+            }
+        },
+        "items": {
+            "1": 25
+        },
+        "ore": {
+            "copper": 200,
+            "iron": 200,
+            "gold": 999,
+            "diamond": 999
+        },
+        "points": 5
+    },
+    "1137860238": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100056992160405": {
+        "map": "jungle_0",
+        "mine": "2",
+        "dataUser": {
+            "level": 2,
+            "exp": 316,
+            "gold": 9999999740899,
+            "hp": 200,
+            "mana": 200,
+            "atk": 200,
+            "max_hp": 200,
+            "def": 40,
+            "weapons": "Cung",
+            "tools": "Cúp Gỗ",
+            "armor": "Áo Giáp Vàng"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 100,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                },
+                "Cung": {
+                    "name": "Cung",
+                    "damage": 56,
+                    "level": 2,
+                    "price": 10000,
+                    "durability": 194,
+                    "image": "https://i.imgur.com/FUyopSf.png"
+                },
+                "Rìu": {
+                    "name": "Rìu",
+                    "damage": 30,
+                    "level": 3,
+                    "price": 5000,
+                    "durability": 490,
+                    "image": "https://i.imgur.com/Uer8GiV.png"
+                }
+            },
+            "tools": {
+                "Cúp Vàng": {
+                    "name": "Cúp Vàng",
+                    "price": 5000,
+                    "durability": 300,
+                    "level": 1,
+                    "image": "https://i.imgur.com/jH2kDtj.png"
+                },
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 100,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            },
+            "armor": {
+                "Áo Giáp Vàng": {
+                    "name": "Áo Giáp Vàng",
+                    "durability": 200,
+                    "level": 1,
+                    "image": "https://i.imgur.com/11iNwmd.png",
+                    "defense": 20,
+                    "hp": 100,
+                    "price": 10000
+                }
+            }
+        },
+        "items": {
+            "1": 25
+        },
+        "ore": {
+            "copper": 200,
+            "iron": 200,
+            "gold": 999,
+            "diamond": 999
+        },
+        "points": 5
+    },
+    "100080694111402": {
+        "map": "jungle_0",
+        "mine": "2",
+        "dataUser": {
+            "level": 1,
+            "exp": 1068,
+            "gold": 9999999770779,
+            "hp": 1100,
+            "mana": 100,
+            "atk": 190,
+            "max_hp": 100,
+            "def": 30,
+            "weapons": "Cung",
+            "tools": "Cúp Gỗ",
+            "armor": "Áo Giáp Vàng"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 100,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                },
+                "Cung": {
+                    "name": "Cung",
+                    "damage": 50,
+                    "level": 1,
+                    "price": 10000,
+                    "durability": 100,
+                    "image": "https://i.imgur.com/FUyopSf.png"
+                },
+                "Rìu": {
+                    "name": "Rìu",
+                    "damage": 30,
+                    "level": 3,
+                    "price": 5000,
+                    "durability": 490,
+                    "image": "https://i.imgur.com/Uer8GiV.png"
+                }
+            },
+            "tools": {
+                "Cúp Vàng": {
+                    "name": "Cúp Vàng",
+                    "price": 5000,
+                    "durability": 300,
+                    "level": 1,
+                    "image": "https://i.imgur.com/jH2kDtj.png"
+                },
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 100,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            },
+            "armor": {
+                "Áo Giáp Vàng": {
+                    "name": "Áo Giáp Vàng",
+                    "durability": 200,
+                    "level": 1,
+                    "image": "https://i.imgur.com/11iNwmd.png",
+                    "defense": 20,
+                    "hp": 100,
+                    "price": 10000
+                }
+            }
+        },
+        "items": {
+            "1": 25
+        },
+        "ore": {
+            "copper": 300,
+            "iron": 300,
+            "gold": 999,
+            "diamond": 999
+        },
+        "points": 0
+    },
+    "100035731083424": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 380,
+            "gold": 650,
+            "hp": 55,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "Kiếm Sắt",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 95,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100075520473857": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 10,
+            "gold": 510,
+            "hp": 95,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "Kiếm Sắt",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 999,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100071209470205": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100054672072499": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 210,
+            "gold": 2500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "Cúp Gỗ"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 907,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 3,
+            "iron": 9,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100049688342513": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100051890020557": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 330,
+            "gold": 3700,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "Cúp Gỗ"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 887,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 13,
+            "iron": 10,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100050695131354": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 340,
+            "gold": 4300,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "Cúp Gỗ"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 894,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 16,
+            "iron": 9,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100066902865117": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 590,
+            "gold": 1800,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "Cúp Vàng"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 831,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                },
+                "Cúp Vàng": {
+                    "name": "Cúp Vàng",
+                    "price": 5000,
+                    "durability": 2958,
+                    "level": 1,
+                    "image": "https://i.imgur.com/jH2kDtj.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 21,
+            "iron": 19,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100010553370091": {
+        "map": "thiên giới_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 490,
+            "gold": 1230,
+            "hp": 60,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "Kiếm Sắt",
+            "tools": "Cúp Gỗ"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 995,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 977,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 3,
+            "iron": 2,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100075488621967": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100054825223116": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100055099814707": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100003050658334": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100071968998983": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100086491612736": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100078387125041": {
+        "map": "thiên giới_0",
+        "mine": "2",
+        "dataUser": {
+            "level": 2,
+            "exp": 862,
+            "gold": 26400,
+            "hp": 100,
+            "mana": 200,
+            "atk": 20,
+            "max_hp": 200,
+            "def": 20,
+            "weapons": "0",
+            "tools": "Cúp Sắt"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 892,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                },
+                "Cúp Sắt": {
+                    "name": "Cúp Sắt",
+                    "price": 1000,
+                    "durability": 472,
+                    "level": 1,
+                    "image": "https://i.imgur.com/5ikK7R7.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 26,
+            "iron": 57,
+            "gold": 26,
+            "diamond": 0
+        },
+        "points": 5
+    },
+    "100094050177403": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100072926675810": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100060930975588": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100044970106811": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 140,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "61550506511669": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100038967093076": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100071847188056": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 160,
+            "gold": 2000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "Cúp Gỗ"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 968,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 12,
+            "iron": 2,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100081093880719": {
+        "map": "thiên giới_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 2,
+            "exp": 402,
+            "gold": 10200,
+            "hp": 103,
+            "mana": 200,
+            "atk": 20,
+            "max_hp": 200,
+            "def": 20,
+            "weapons": "0",
+            "tools": "Cúp Vàng"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 595,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                },
+                "Cúp Vàng": {
+                    "name": "Cúp Vàng",
+                    "price": 5000,
+                    "durability": 2865,
+                    "level": 1,
+                    "image": "https://i.imgur.com/jH2kDtj.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 50,
+            "iron": 49,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 2
+    },
+    "100034177008575": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100084552316577": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100007080554552": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100087710138571": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100070849965847": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100000099415072": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100084933213656": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100037243238027": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "61552918454008": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100046426151266": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 2,
+            "exp": 692,
+            "gold": 3170,
+            "hp": 30,
+            "mana": 200,
+            "atk": 23,
+            "max_hp": 200,
+            "def": 22,
+            "weapons": "Kiếm Sắt",
+            "tools": "Cúp Gỗ"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 981,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 905,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 5,
+            "iron": 9,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100090717010261": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 696,
+            "gold": 1970,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "Kiếm Sắt",
+            "tools": "Cúp Gỗ"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 987,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 947,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 3,
+            "iron": 5,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100088981790685": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 250,
+            "gold": 1800,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "Cúp Sắt"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 933,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                },
+                "Cúp Sắt": {
+                    "name": "Cúp Sắt",
+                    "price": 1000,
+                    "durability": 2000,
+                    "level": 1,
+                    "image": "https://i.imgur.com/5ikK7R7.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 7,
+            "iron": 6,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100039306663139": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100080878860665": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100044312616781": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100089387522968": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100088842316037": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100051911223004": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100085845651247": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "61555414679547": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100078960386294": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100084355880123": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100092474333705": {
+        "map": "jungle_0",
+        "mine": "3",
+        "dataUser": {
+            "level": 4,
+            "exp": 90,
+            "gold": 45100,
+            "hp": 403,
+            "mana": 400,
+            "atk": 42,
+            "max_hp": 400,
+            "def": 42,
+            "weapons": "0",
+            "tools": "Cúp Kim Cương",
+            "mp": 1
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "image": "https://i.imgur.com/s5jccC7.png",
+                    "type": "weapons",
+                    "rarity": "common",
+                    "damage": 20,
+                    "durability": 1000,
+                    "level": 1
+                }
+            },
+            "tools": {
+                "Cúp Gỗ": {
+                    "name": "Cúp Gỗ",
+                    "price": 100,
+                    "durability": 839,
+                    "level": 1,
+                    "image": "https://i.imgur.com/EcFCB1M.png"
+                },
+                "Cúp Sắt": {
+                    "name": "Cúp Sắt",
+                    "price": 1000,
+                    "durability": 1545,
+                    "level": 1,
+                    "image": "https://i.imgur.com/5ikK7R7.png"
+                },
+                "Cúp Kim Cương": {
+                    "name": "Cúp Kim Cương",
+                    "price": 10000,
+                    "durability": 5000,
+                    "level": 1,
+                    "image": "https://i.imgur.com/zde3Rcm.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 16,
+            "iron": 28,
+            "gold": 81,
+            "diamond": 72
+        },
+        "points": 5
+    },
+    "100037006987864": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100044069135100": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "61551534107278": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100013686648390": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100084125581937": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100083239630460": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100084301884246": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 500,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {
+                "Kiếm Sắt": {
+                    "name": "Kiếm Sắt",
+                    "damage": 20,
+                    "level": 1,
+                    "price": 500,
+                    "durability": 1000,
+                    "image": "https://i.imgur.com/s5jccC7.png"
+                }
+            },
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100092194718325": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "61551700559504": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 40,
+            "gold": 400,
+            "hp": null,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "Cúp Sắt"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {
+                "Cúp Sắt": {
+                    "name": "Cúp Sắt",
+                    "price": 1000,
+                    "durability": 1996,
+                    "level": 1,
+                    "image": "https://i.imgur.com/5ikK7R7.png"
+                }
+            }
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 4,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": null
+    },
+    "100057060522195": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    },
+    "100042750775325": {
+        "map": "jungle_0",
+        "mine": "1",
+        "dataUser": {
+            "level": 1,
+            "exp": 0,
+            "gold": 1000,
+            "hp": 100,
+            "mana": 100,
+            "atk": 10,
+            "max_hp": 100,
+            "def": 10,
+            "weapons": "0",
+            "tools": "0"
+        },
+        "item": {
+            "weapons": {},
+            "tools": {}
+        },
+        "items": {
+            "1": 0
+        },
+        "ore": {
+            "copper": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "points": 0
+    }
+}

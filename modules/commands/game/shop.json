@@ -1,0 +1,77 @@
+{
+    "weapons": {
+        "1": {
+            "name": "Kiếm Sắt",
+            "damage": 20,
+            "level": 1,
+            "price": 500,
+            "durability": 1000,
+            "image": "https://i.imgur.com/s5jccC7.png"
+        },
+        "2": {
+            "name": "Rìu",
+            "damage": 30,
+            "level": 1,
+            "price": 5000,
+            "durability": 2000,
+            "image": "https://i.imgur.com/Uer8GiV.png"
+        },
+        "3": {
+            "name": "Cung",
+            "damage": 50,
+            "level": 1,
+            "price": 10000,
+            "durability": 1000,
+            "image": "https://i.imgur.com/FUyopSf.png"
+        }
+    },
+    "items": {
+        "1": {
+            "name": "Bánh Mỳ",
+            "price": 100,
+            "heal_percentage": "10%",
+            "image": "https://i.imgur.com/ZwLTrqq.png"
+        }
+    },
+    "tools": {
+        "1": {
+            "name": "Cúp Gỗ",
+            "price": 100,
+            "durability": 1000,
+            "level": 1,
+            "image": "https://i.imgur.com/EcFCB1M.png"
+        },
+        "2": {
+            "name": "Cúp Sắt",
+            "price": 1000,
+            "durability": 2000,
+            "level": 1,
+            "image": "https://i.imgur.com/5ikK7R7.png"
+        },
+        "3": {
+            "name": "Cúp Vàng",
+            "price": 5000,
+            "durability": 3000,
+            "level": 1,
+            "image": "https://i.imgur.com/jH2kDtj.png"
+        },
+        "4": {
+            "name": "Cúp Kim Cương",
+            "price": 10000,
+            "durability": 5000,
+            "level": 1,
+            "image": "https://i.imgur.com/zde3Rcm.png"
+        }
+    },
+    "armor": {
+        "1": {
+                "name": "Áo Giáp Vàng",
+                "durability": 2000,
+                "level": 1,
+                "image": "https://i.imgur.com/11iNwmd.png",
+                "defense": 20,
+                "price": 10000,
+                "hp": 100
+        }
+    }
+}
