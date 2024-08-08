@@ -1,0 +1,445 @@
+[
+  [
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0,
+      "complete": 1,
+      "flag": 1,
+      "mode": 10
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    }
+  ],
+  [
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    }
+  ],
+  [
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    }
+  ],
+  [
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    }
+  ],
+  [
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": true,
+      "adjacentMines": 1
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    }
+  ],
+  [
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 2
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 4
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 2
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    }
+  ],
+  [
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 4
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 2
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    }
+  ],
+  [
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 2
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 4
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 4
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 3
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    }
+  ],
+  [
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 3
+    },
+    {
+      "opened": false,
+      "isMine": true,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 3
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    }
+  ],
+  [
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": false,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 1
+    },
+    {
+      "opened": true,
+      "isMine": false,
+      "markked": false,
+      "adjacentMines": 0
+    }
+  ]
+]

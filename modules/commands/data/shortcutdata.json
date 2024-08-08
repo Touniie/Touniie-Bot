@@ -1,0 +1,44 @@
+[
+    {
+        "threadID": "6326347894117284",
+        "shortcuts": [
+            {
+                "output": "Tag cái lồn gì",
+                "uri": "https://files.catbox.moe/i5bwhq.mp4",
+                "input_type": "tag",
+                "tag_id": "100080593372332"
+            },
+            {
+                "output": "con vit keu mel mel",
+                "uri": "https://files.catbox.moe/sj8h1l.mp4",
+                "input_type": "tag",
+                "tag_id": "100003005551763"
+            },
+            {
+                "input": "ngủ đi",
+                "output": "ngủ đi",
+                "uri": "https://files.catbox.moe/xeoeei.mp4"
+            }
+        ]
+    },
+    {
+        "threadID": "6299344303460908",
+        "shortcuts": [
+            {
+                "input": "Ok",
+                "output": "AOV",
+                "uri": "https://files.catbox.moe/wr6ulz.mp4"
+            }
+        ]
+    },
+    {
+        "threadID": "6878534095548019",
+        "shortcuts": [
+            {
+                "input": "🤔",
+                "output": "🤔",
+                "uri": "s"
+            }
+        ]
+    }
+]

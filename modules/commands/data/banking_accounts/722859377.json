@@ -1,0 +1,35 @@
+{
+    "account_number": "304354",
+    "uid": "722859377",
+    "balance": "0",
+    "created_at": 1715456596685,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "722859377",
+            "time": 1715456624979
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "722859377",
+            "time": 1715456771628
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718221425644,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715543025078,
+        "debt": 1715631484964
+    },
+    "pass": "5495",
+    "timestamp_due_repay": 1715629424979
+}

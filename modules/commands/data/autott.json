@@ -1,0 +1,33 @@
+{
+    "comment": {
+        "user": {
+            "data": [],
+            "on": false,
+            "text": []
+        },
+        "group": {
+            "data": [],
+            "on": false,
+            "text": []
+        }
+    },
+    "reaction": {
+        "user": {
+            "data": [],
+            "on": false,
+            "reaction": []
+        },
+        "group": {
+            "data": [],
+            "on": false,
+            "reaction": []
+        }
+    },
+    "createPost": {
+        "on": false,
+        "type": "",
+        "time": "",
+        "text": [],
+        "image": []
+    }
+}

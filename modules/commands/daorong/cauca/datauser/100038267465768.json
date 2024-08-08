@@ -1,0 +1,20 @@
+{
+    "name": "Hữu Khiên",
+    "ID": "100038267465768",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "07:45:58, 13/4/2022"
+}

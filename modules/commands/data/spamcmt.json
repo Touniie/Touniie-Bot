@@ -1,0 +1,11 @@
+{
+    "spamcmt": {
+        "data": {
+            "live": [],
+            "die": [],
+            "ID": []
+        },
+        "on": false,
+        "text": []
+    }
+}

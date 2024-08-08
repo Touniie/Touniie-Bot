@@ -1,0 +1,55 @@
+{
+    "5885468938142520": {
+        "Game": true
+    },
+    "5556442971082682": {
+        "Game": false
+    },
+    "5338986912893212": {
+        "Game": false
+    },
+    "9646460275371785": {
+        "Game": true
+    },
+    "6502519466530238": {
+        "Game": false
+    },
+    "24008226332124588": {
+        "Spam": true
+    },
+    "6625459097507069": {
+        "Game": true,
+        "Spam": false,
+        "Bank": true
+    },
+    "8560127267338295": {
+        "Spam": true
+    },
+    "9406305102773444": {
+        "Game": false,
+        "Spam": false
+    },
+    "4216524055084248": {
+        "Game": true,
+        "Coin": true,
+        "Spam": true
+    },
+    "7847777948573421": {
+        "Game": true,
+        "Coin": true,
+        "Spam": true
+    },
+    "7239221489476811": {
+        "Game": true,
+        "Coin": true,
+        "Spam": true
+    },
+    "6058863954194512": {
+        "Game": true,
+        "Coin": true,
+        "Spam": true
+    },
+    "7263791713710688": {
+        "Spam": true
+    }
+}
